@@ -1,0 +1,3 @@
+- 👋 Hi, I’m xushaojia
+- 👀 I’m interested in java(sb,sc),js(vue element-ui),golang
+- 🌱 I’m currently learning java(sb,sc),js(vue element-ui),golang,rust
